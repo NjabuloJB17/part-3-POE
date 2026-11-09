@@ -114,11 +114,7 @@ Docker containerisation is part of the Part 3 requirements.
 
 The project includes Docker configuration files. Docker Desktop is required to build and run the containers.
 
-The application can currently be run locally through Visual Studio without Docker. Full container testing and the final Docker run command remain to be completed.
-
-
-
- 10. Conclusion
+ 9. Conclusion
 
 RaceDay Part 3 extends the RaceDay Web API by providing an ASP.NET Core MVC user interface. It uses session-based authentication, role-specific navigation and API communication to support sporting event management.
 
